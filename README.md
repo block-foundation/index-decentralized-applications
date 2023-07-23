@@ -11,7 +11,7 @@
 
 <div>
     <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
-    <h1 align="left">Decentralized Technologies Index</h1>
+    <h1 align="left">Decentralized Application Index</h1>
     <h3 align="left">An Awesome List</h3>
 </div>
 
