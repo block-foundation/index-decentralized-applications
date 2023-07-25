@@ -10,7 +10,7 @@
 ---
 
 <div>
-    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
+    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
     <h1 align="left">Decentralized Application Index</h1>
     <h3 align="left">An Awesome List</h3>
 </div>
@@ -83,11 +83,11 @@ Welcome to our dApps universe!
 
 ---
 
-## Legal
+## Legal Information
 
 ### Copyright
 
-Copyright 2023, [Block Foundation Community Authors](https://github.com/block-foundation/community/blob/master/AUTHORS).
+Copyright 2023, [Stichting Block Foundation](https://www.blockfoundation.io).
 
 ### License
 
