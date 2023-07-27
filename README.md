@@ -37,17 +37,17 @@ Welcome to our dApps universe!
 
 ### Community Platforms
 
-* [Aether](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
+* [Aether](https://github.com/aethereans/aether-app): An open-source platform fostering ephemeral public communities through P2P methods and self-governance.
 
 ### Social Media Networks
 
-* [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
-* [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
+* [AKASHA](https://akasha.world): A futuristic social media network leveraging the power of the Ethereum blockchain, incorporated into the Inter-Planetary File System.
+* [Mastodon](https://joinmastodon.org): A user-controlled social networking platform where you can follow friends, meet new people, and share content like links, images, texts, and videos. This platform is owned by the community and free of ads.
 
 ### Chat and Messaging
 
-* [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
-* [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
+* [Bitmessage](https://bitmessage.org): A peer-to-peer communication protocol designed for sending encrypted messages to either a single person or a group of subscribers.
+* [Orbit](https://github.com/haadcode/orbit): A decentralized, serverless chat application utilizing a peer-to-peer model, operating on IPFS.
 
 ---
 
@@ -55,8 +55,8 @@ Welcome to our dApps universe!
 
 ### Browser
 
-* [Agregore](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
-* [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
+* [Agregore](https://github.com/AgregoreWeb/agregore-browser): This is a simplistic web browser that facilitates multiple peer-to-peer protocols and can be extended using standard WebExtensions.
+* [Beaker](https://beakerbrowser.com): An exploratory browser that incorporates advanced technologies for Peer-to-Peer applications, maintaining compatibility with the broader web.
 
 ---
 
