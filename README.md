@@ -19,17 +19,13 @@
 
 ## Introduction
 
-Welcome to the Block Foundation's Decentralized Applications (dApps) Repository! This repository serves as a comprehensive database of the decentralized applications that we have developed or engaged with.
-
-In our mission to reshape architecture and urban planning through blockchain technology, we've developed a host of innovative dApps to empower architects, urban planners, project developers, service providers, research institutes, and governments. Here, you will find a list of these applications, each with its purpose, functionalities, development status, and usage instructions.
+Welcome to the Block Foundation's Decentralized Applications (dApps) Repository! This repository serves as a comprehensive database of decentralized applications.
 
 This repository aims to serve as an accessible knowledge base for our community and the wider public interested in the intersection of blockchain and architectural technology. We believe in the power of decentralized applications to redefine our built environment, promote equitable ownership, and facilitate sustainable development.
 
 Whether you're a developer, a real estate professional, a blockchain enthusiast, or simply curious, you're in the right place. Dive in and explore the transformative potential of dApps in reshaping our urban landscape and challenging traditional real estate norms.
 
 Feel free to contribute, raise issues, or suggest improvements. Let's build the future of real estate, architecture, and urban planning together, one decentralized application at a time.
-
-Welcome to our dApps universe!
 
 ---
 
