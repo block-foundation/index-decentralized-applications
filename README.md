@@ -59,27 +59,27 @@ Welcome to our dApps universe!
 * [Beaker](https://beakerbrowser.com): An exploratory browser that incorporates advanced technologies for Peer-to-Peer applications, maintaining compatibility with the broader web.
 
 ---
-
 ## Cloud Platforms
 
 ### Content Delivery Networks (CDN)
 
-* [NewNode](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+* [NewNode](https://github.com/clostra/newnode): A network that enables decentralized content distribution (dCDN).
 
 ---
 
-## Databse
+## Database Services
 
-* [DB3 Network](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+* [DB3 Network](https://github.com/dbpunk-labs/db3): A decentralized alternative to Firebase Firestore.
 
 ---
 
-## File Sharing
+## File Sharing Platforms
 
-* [airpaste ☠️](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
-* [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
-* [FileLove](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
-* [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+* [airpaste ☠️](https://github.com/mafintosh/airpaste): A peer-to-peer network channel that automatically discovers other peers using mdns, enabling text or file transfers.
+* [Dropub ☠️](https://dropub.com): A free online platform for sharing files, combining features similar to Dropbox and BitTorrent.
+* [FileLove](https://github.com/midzer/filelove): A minimalistic browser-based platform for peer-to-peer file transfers, powered by WebTorrent.
+* [FilePizza ☠️](https://github.com/kern/filepizza): A platform for free peer-to-peer file sharing right in your browser.
+
 
 ---
 
