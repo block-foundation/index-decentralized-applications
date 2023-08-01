@@ -38,6 +38,7 @@ Welcome to our dApps universe!
 * [Aether](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
 * [Cactus Comments](https://cactus.chat/): This is an open web comment system that is federated and built on Matrix.
 * [NNTPChan](https://github.com/majestrate/nntpchan): A decentralized imageboard based on NNTP.
+* [Qaul](https://qaul.net/): A communication app that operates on an internet-independent wireless mesh. It uses interconnected P2P mesh through BLE, WiFi, and Internet-overlay.
 
 ### Social Networks
 
@@ -47,6 +48,7 @@ Welcome to our dApps universe!
 * [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
 * [Manyverse](https://gitlab.com/staltz/manyverse): An off-grid social network powered by Scuttlebutt for mobile.
 * [Nostr](https://github.com/nostr-protocol/nostr) - A potentially effective decentralized social network. An uncomplicated, open protocol that fosters a genuinely censorship-resistant and global social network (https://nostr.com/)
+* [Pleroma](https://pleroma.social): An open-protocol federated social networking server. Compatible with GNU Social, Mastodon, and numerous other ActivityPub and OStatus implementations.
 
 ### Chat and Messaging
 
@@ -64,6 +66,8 @@ Welcome to our dApps universe!
 * [Keet](https://keet.io): A peer-to-peer video and chat platform. It is private, encrypted
 * [Meshenger](https://github.com/meshenger-app/meshenger-android): A Voice/Video Android phone app that operates on local LAN and doesn't require internet access, servers, or accounts.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
+* [Patchwork](https://github.com/ssbc/patchwork): A decentralized app for messaging and sharing, built on Secure Scuttlebutt (SSB). An alternate interface is [Patchbay](https://github.com/ssbc/patchbay).
+* [Pollen](https://github.com/maxtheaxe/pollen): A Python-written decentralized messaging service that operates without an internet or mesh connection.
 
 ### VOIP
 
@@ -130,6 +134,14 @@ Welcome to our dApps universe!
 * [IPFS Desktop](https://github.com/ipfs/ipfs-desktop): A native application that enables you to run your own IPFS Node.
 * [ipfs-pinner](https://github.com/wabarc/ipfs-pinner): A toolkit designed to assist in uploading files to IPFS pinning services like Infura, Pinata, NFT.Storage, and Web3.Storage.
 * [OnionShare](https://onionshare.org): An open-source tool for securely and anonymously sharing files of any size.
+* [Orion](https://github.com/Siderus/Orion): User-friendly Inter Planetary File System (IPFS) desktop client.
+* [Peertransfer ☠️](https://github.com/pguth/peertransfer): A web-based platform allowing peer-to-peer file transfers with end-to-end encryption.
+* [reep.io ☠️](https://reep.io): This platform enables file transfers directly to another browser. Your peer can download the file directly from you.
+
+
+### File Storage
+
+* [ORC ☠️](https://orc.network/): Stands for Onion Routed Cloud, a platform offering decentralized, anonymous file storage. It operates over the Tor network.
 
 
 ### BitTorrent
@@ -156,6 +168,7 @@ Welcome to our dApps universe!
 
 * [instant.io](https://github.com/webtorrent/instant.io): A platform that allows streaming file transfers over WebTorrent, bringing torrents to the web.
 * ~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~: A peer-to-peer audio sharing and streaming application similar to SoundCloud, but decentralized. It's built with SSB + Webtorrent.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube): Web-based video streaming platform that uses BitTorrent via WebTorrent and Angular. See a demo at [peertube.cpy.re](https://peertube.cpy.re).
 
 ---
 
@@ -169,7 +182,7 @@ Welcome to our dApps universe!
 ## Productivity
 
 * [Hyperpad](https://github.com/hackergrrl/hyperpad): A peer-to-peer collaborative text editor.
-
+* [Philes](https://github.com/chrismatthieu/philes): A straightforward decentralized notepad app powered by IPFS.
 
 ## Legal Information
 
