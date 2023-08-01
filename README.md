@@ -37,14 +37,16 @@ Welcome to our dApps universe!
 
 * [Aether](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
 * [Cactus Comments](https://cactus.chat/): This is an open web comment system that is federated and built on Matrix.
+* [NNTPChan](https://github.com/majestrate/nntpchan): A decentralized imageboard based on NNTP.
 
-### Social Media Networks
+### Social Networks
 
 * [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 * [Diaspora](https://github.com/diaspora/diaspora): An open source, distributed social network that respects privacy. The main pod is hosted at [Diasp.eu](https://diasp.eu).
 * [Friendica](https://github.com/friendica/friendica): A decentralized communications platform integrating social communication. Connects seamlessly to a federated network of several thousand servers, with over half a million users. Friendica allows you to connect with users on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, irrespective of the hosting location of each user's profile.
 * [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
 * [Manyverse](https://gitlab.com/staltz/manyverse): An off-grid social network powered by Scuttlebutt for mobile.
+* [Nostr](https://github.com/nostr-protocol/nostr) - A potentially effective decentralized social network. An uncomplicated, open protocol that fosters a genuinely censorship-resistant and global social network (https://nostr.com/)
 
 ### Chat and Messaging
 
@@ -67,6 +69,12 @@ Welcome to our dApps universe!
 
 * [Element (formerly Riot)](https://element.io): A collaborative client for the web offering chat, VOIP video, file transfer, and end-to-end crypto functionalities.
 
+
+### Calendar and Events
+
+* [Mobilizon](https://joinmobilizon.org/): A federated platform for discovering, creating, and managing events.
+* [norcal](https://github.com/substack/norcal): A peer-to-peer command-line calendar developed in Node.js. It supports syncing, linking, embedding, and offline editing.
+
 ---
 
 ## Internet Applications
@@ -77,6 +85,16 @@ Welcome to our dApps universe!
 * [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P): A highly distributed cache platform that operates solely in the browser. It is built upon WebTorrent.
 * [Galacteek](https://gitlab.com/galacteek/galacteek): A platform for browser and decentralized applications (dapps) for the distributed web.
+
+
+### Websites
+
+* [Neocities](https://neocities.org): Provides decentralized websites in the style of Geocities.
+
+
+### Commerce
+
+* [Open Bazaar](https://openbazaar.org): A decentralized platform for peer-to-peer online commerce using Bitcoin, free from fees and restrictions.
 
 ---
 
@@ -96,6 +114,7 @@ Welcome to our dApps universe!
 
 * [DB3 Network](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
 * [LF](https://github.com/zerotier/lf): A fully decentralized and fully replicated key/value store. This means anyone can operate a node without special permissions and each node is equivalent, with each node storing all the data.
+* [Noms ☠️](https://github.com/attic-labs/noms): A versioned, forkable, and syncable decentralized database, conceptually inspired by the Git version control system. Currently, no active work is happening on this project.
 
 ---
 
@@ -105,12 +124,18 @@ Welcome to our dApps universe!
 * [Airshare](https://github.com/KuroLabs/Airshare): A command-line interface tool and module for transferring data between two machines on a local network. It operates peer-to-peer using Multicast-DNS and can function completely offline.
 * [croc](https://github.com/schollz/croc): A utility that allows the easy and secure transfer of files and folders between computers from the command line.
 * [Dat Desktop](https://github.com/datproject/dat-desktop): This decentralized tool allows for the distribution of small and large data.
-* [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 * [FileLove](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
 * [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Hardbin](https://github.com/jes/hardbin): An encrypted pastebin leveraging IPFS.
 * [IPFS Desktop](https://github.com/ipfs/ipfs-desktop): A native application that enables you to run your own IPFS Node.
 * [ipfs-pinner](https://github.com/wabarc/ipfs-pinner): A toolkit designed to assist in uploading files to IPFS pinning services like Infura, Pinata, NFT.Storage, and Web3.Storage.
+* [OnionShare](https://onionshare.org): An open-source tool for securely and anonymously sharing files of any size.
+
+
+### BitTorrent
+
+* [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
+* [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent): A pure Javascript BitTorrent client, built using Electron and React.
 
 
 ## Code
@@ -123,6 +148,7 @@ Welcome to our dApps universe!
 * [LCVPN](https://github.com/kanocz/lcvpn): A lightweight decentralized VPN solution written in Golang.
 * [MaidSafe](https://maidsafe.net): A decentralized internet and application infrastructure that rewards users for their participation in the network.
 * [Meshbird](https://github.com/meshbird/meshbird): A tool for establishing distributed private networks across geographically spread data centers.
+* [Netsukuku](https://github.com/Netsukuku/netsukuku): An alternative to the traditional internet, Netsukuku is a mesh network or peer-to-peer system that self-generates and maintains, offering all internet features such as websites, instant messaging, file transfers, DNS, etc. It's built to manage an unlimited number of nodes with minimum CPU and memory resources.
 
 ---
 
