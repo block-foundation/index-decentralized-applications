@@ -49,6 +49,8 @@ Welcome to our dApps universe!
 * [Manyverse](https://gitlab.com/staltz/manyverse): An off-grid social network powered by Scuttlebutt for mobile.
 * [Nostr](https://github.com/nostr-protocol/nostr) - A potentially effective decentralized social network. An uncomplicated, open protocol that fosters a genuinely censorship-resistant and global social network (https://nostr.com/)
 * [Pleroma](https://pleroma.social): An open-protocol federated social networking server. Compatible with GNU Social, Mastodon, and numerous other ActivityPub and OStatus implementations.
+* [SocialHome](https://github.com/jaywink/socialhome): A federated personal profile with social networking capabilities. Users can generate rich content using Markdown or HTML/JS/CSS. All the content can be pinned to the user's profile and will federate to contacts on the federated social web.
+* [Steemit](https://steemit.com/): A social media platform rooted in blockchain technology, where users can earn rewards.
 
 ### Chat and Messaging
 
@@ -68,10 +70,14 @@ Welcome to our dApps universe!
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 * [Patchwork](https://github.com/ssbc/patchwork): A decentralized app for messaging and sharing, built on Secure Scuttlebutt (SSB). An alternate interface is [Patchbay](https://github.com/ssbc/patchbay).
 * [Pollen](https://github.com/maxtheaxe/pollen): A Python-written decentralized messaging service that operates without an internet or mesh connection.
+* [Ricochet](https://ricochet.im/): Ricochet presents a unique take on instant messaging that ensures your privacy by not trusting any third party. It operates over the Tor network.
+* [SimpleX chat](https://github.com/simplex-chat/simplex-chat): A terminal-based chat application with an emphasis on user privacy. It doesn't use any global user identifiers, even random ones, and it supports group chats and file sending. A mobile app is planned.
+
 
 ### VOIP
 
 * [Element (formerly Riot)](https://element.io): A collaborative client for the web offering chat, VOIP video, file transfer, and end-to-end crypto functionalities.
+* [Roll-Call](https://rollcall.audio): Roll-Call offers free and reliable audio calls to everyone through browser peer-to-peer connections.
 
 
 ### Calendar and Events
@@ -137,11 +143,14 @@ Welcome to our dApps universe!
 * [Orion](https://github.com/Siderus/Orion): User-friendly Inter Planetary File System (IPFS) desktop client.
 * [Peertransfer ☠️](https://github.com/pguth/peertransfer): A web-based platform allowing peer-to-peer file transfers with end-to-end encryption.
 * [reep.io ☠️](https://reep.io): This platform enables file transfers directly to another browser. Your peer can download the file directly from you.
+* [ShareDrop ☠️](https://github.com/cowbell/sharedrop): A replication of the Apple AirDrop service. It enables direct device-to-device file transfers, bypassing the need to upload them to a server.
+* [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk): This is a Graphical User Interface for Syncthing, a program that synchronizes files continuously.
 
 
 ### File Storage
 
 * [ORC ☠️](https://orc.network/): Stands for Onion Routed Cloud, a platform offering decentralized, anonymous file storage. It operates over the Tor network.
+* [Storj](https://storj.io): A blockchain-based object storage system offering end-to-end encryption. You are the sole entity with access to your data.
 
 
 ### BitTorrent
@@ -176,6 +185,8 @@ Welcome to our dApps universe!
 
 * [Cryptor](https://github.com/cpl/cryptor): A peer-to-peer overlay network prioritizing your privacy and anonymity. Includes packages and some clients.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): A multipurpose platform for creating interconnected websites. It features a decentralized identity, communications, and permissions framework built using common web server technology.
+* [Retroshare](https://retroshare.cc): Retroshare fosters a network of computers by creating encrypted connections among friends. It offers multiple distributed services such as forums, channels, chat, mail, and more.
+* [SecuShare](https://secushare.org): Primarily a research project, SecuShare is essentially a new internet stack blended with a scalable distributed alternative to cloud technology. Source code can be found at: https://gnunet.org/git/gnunet.git
 
 ---
 
