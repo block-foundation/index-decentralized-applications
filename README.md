@@ -1,9 +1,8 @@
 <div align="right">
 
-  [![Awesome](https://cdn.rawgit.com/block-foundation/index-decentralized-technologies/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/block-foundation/index-decentralized-technologies)
-  [![license](https://img.shields.io/github/license/block-foundation/contracts?color=green&label=license&style=flat-square)](LICENSE.md)
-  ![stars](https://img.shields.io/github/stars/block-foundation/contracts?color=blue&label=stars&style=flat-square)
-  ![contributors](https://img.shields.io/github/contributors/block-foundation/contracts?color=blue&label=contributors&style=flat-square)
+  [![license](https://img.shields.io/github/license/block-foundation/index-decentralized-applications?color=green&label=license&style=flat-square)](LICENSE.md)
+  ![stars](https://img.shields.io/github/stars/block-foundation/index-decentralized-applications?color=blue&label=stars&style=flat-square)
+  ![contributors](https://img.shields.io/github/contributors/block-foundation/index-decentralized-applications?color=blue&label=contributors&style=flat-square)
 
 </div>
 
@@ -195,7 +194,7 @@ Welcome to our dApps universe!
 ## Streaming
 
 - [instant.io](https://github.com/webtorrent/instant.io) – A platform that allows streaming file transfers over WebTorrent, bringing torrents to the web.
-- ~[Ferment :red_circle:](https://github.com/mmckegg/ferment)~ – A peer-to-peer audio sharing and streaming application similar to SoundCloud, but decentralized. It's built with SSB + Webtorrent.
+- [Ferment :red_circle:](https://github.com/mmckegg/ferment)~ – A peer-to-peer audio sharing and streaming application similar to SoundCloud, but decentralized. It's built with SSB + Webtorrent.
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) – Web-based video streaming platform that uses BitTorrent via WebTorrent and Angular. See a demo at [peertube.cpy.re](https://peertube.cpy.re).
 
 ---
