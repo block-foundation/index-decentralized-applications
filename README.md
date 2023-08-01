@@ -63,7 +63,7 @@ Welcome to our dApps universe!
 - [Deltachat](https://delta.chat) – Deltachat offers a messaging experience similar to Telegram or Whatsapp but without tracking or central control. It utilizes the expansive and diverse e-mail server network to facilitate communication. Chat is possible with anyone if you have their e-mail address, no need for them to install DeltaChat, a standard e-mail account is all you need.
 - [Demonsaw](https://www.demonsaw.com) – A secure and anonymous application for sharing information that prioritizes user control of data and simplicity of security.
 - [Fred](https://github.com/hyphanet/fred) – A Freenet reference daemon. Also referred to as – freenetproject.org.
-- [Friends ☠️](https://github.com/moose-team/friends) – A web-based peer-to-peer chat application. Note that this project is currently in alpha testing phase.
+- [Friends :red_circle:](https://github.com/moose-team/friends) – A web-based peer-to-peer chat application. Note that this project is currently in alpha testing phase.
 - [I2P](https://geti2p.net) – An anonymous network providing a simple layer that applications can use to send messages to each other securely and anonymously.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) – Secure, terminal-based chatrooms utilizing IPFS that work across LAN and internet (including NAT traversal). Supports private messaging and file/directory sharing.
 - [Jami](https://jami.net/) – A free, universal communication platform that respects user's privacy and freedoms. Jami has desktop and mobile apps for text messaging, video and audio calls, file transfer, and video conferencing.
@@ -140,62 +140,62 @@ Welcome to our dApps universe!
 
 - [DB3 Network](https://github.com/dbpunk-labs/db3) – Decentralized Firebase Firestore Alternative
 - [LF](https://github.com/zerotier/lf) – A fully decentralized and fully replicated key/value store. This means anyone can operate a node without special permissions and each node is equivalent, with each node storing all the data.
-- [Noms ☠️](https://github.com/attic-labs/noms) – A versioned, forkable, and syncable decentralized database, conceptually inspired by the Git version control system. Currently, no active work is happening on this project.
+- [Noms :red_circle:](https://github.com/attic-labs/noms) – A versioned, forkable, and syncable decentralized database, conceptually inspired by the Git version control system. Currently, no active work is happening on this project.
 
 ---
 
 ## File Sharing
 
-- [airpaste ☠️](https://github.com/mafintosh/airpaste) – A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
+- [airpaste :red_circle:](https://github.com/mafintosh/airpaste) – A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
 - [Airshare](https://github.com/KuroLabs/Airshare) – A command-line interface tool and module for transferring data between two machines on a local network. It operates peer-to-peer using Multicast-DNS and can function completely offline.
 - [croc](https://github.com/schollz/croc) – A utility that allows the easy and secure transfer of files and folders between computers from the command line.
 - [Dat Desktop](https://github.com/datproject/dat-desktop) – This decentralized tool allows for the distribution of small and large data.
 - [FileLove](https://github.com/midzer/filelove) – Minimal p2p file transfer right in the browser, using WebTorrent.
-- [FilePizza ☠️](https://github.com/kern/filepizza) – Free peer-to-peer file transfers in your browser.
+- [FilePizza :red_circle:](https://github.com/kern/filepizza) – Free peer-to-peer file transfers in your browser.
 - [Hardbin](https://github.com/jes/hardbin) – An encrypted pastebin leveraging IPFS.
 - [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) – A native application that enables you to run your own IPFS Node.
 - [ipfs-pinner](https://github.com/wabarc/ipfs-pinner) – A toolkit designed to assist in uploading files to IPFS pinning services like Infura, Pinata, NFT.Storage, and Web3.Storage.
 - [OnionShare](https://onionshare.org) – An open-source tool for securely and anonymously sharing files of any size.
 - [Orion](https://github.com/Siderus/Orion) – User-friendly Inter Planetary File System (IPFS) desktop client.
-- [Peertransfer ☠️](https://github.com/pguth/peertransfer) – A web-based platform allowing peer-to-peer file transfers with end-to-end encryption.
-- [reep.io ☠️](https://reep.io) – This platform enables file transfers directly to another browser. Your peer can download the file directly from you.
-- [ShareDrop ☠️](https://github.com/cowbell/sharedrop) – A replication of the Apple AirDrop service. It enables direct device-to-device file transfers, bypassing the need to upload them to a server.
+- [Peertransfer :red_circle:](https://github.com/pguth/peertransfer) – A web-based platform allowing peer-to-peer file transfers with end-to-end encryption.
+- [reep.io :red_circle:](https://reep.io) – This platform enables file transfers directly to another browser. Your peer can download the file directly from you.
+- [ShareDrop :red_circle:](https://github.com/cowbell/sharedrop) – A replication of the Apple AirDrop service. It enables direct device-to-device file transfers, bypassing the need to upload them to a server.
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) – This is a Graphical User Interface for Syncthing, a program that synchronizes files continuously.
 
 
 ### File Storage
 
-- [ORC ☠️](https://orc.network/) – Stands for Onion Routed Cloud, a platform offering decentralized, anonymous file storage. It operates over the Tor network.
+- [ORC :red_circle:](https://orc.network/) – Stands for Onion Routed Cloud, a platform offering decentralized, anonymous file storage. It operates over the Tor network.
 - [Storj](https://storj.io) – A blockchain-based object storage system offering end-to-end encryption. You are the sole entity with access to your data.
 
 
 ### BitTorrent
 
-- [Dropub ☠️](https://dropub.com) – Share files for free on the internet. It's like Dropbox meets BitTorrent.
-- [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent) – A pure Javascript BitTorrent client, built using Electron and React.
-- [TheDistributedBay ☠️](https://github.com/TheDistributedBay/TheDistributedBay) – This is a peer-to-peer adaptation of the Open Bay/Pirate Bay. It employs a fully distributed protocol to share entries across multiple nodes, rendering server seizure attempts futile. Each node houses a complete copy and all modifications are disseminated throughout the network.
+- [Dropub :red_circle:](https://dropub.com) – Share files for free on the internet. It's like Dropbox meets BitTorrent.
+- [nuTorrent :red_circle:](https://github.com/LeeChSien/nuTorrent) – A pure Javascript BitTorrent client, built using Electron and React.
+- [TheDistributedBay :red_circle:](https://github.com/TheDistributedBay/TheDistributedBay) – This is a peer-to-peer adaptation of the Open Bay/Pirate Bay. It employs a fully distributed protocol to share entries across multiple nodes, rendering server seizure attempts futile. Each node houses a complete copy and all modifications are disseminated throughout the network.
 - [WebTorrent Desktop](https://webtorrent.io/desktop) – This application is designed for torrent streaming. It establishes connections with both BitTorrent and WebTorrent peers.
 
 
 ## Code
 
-- [IPFS bin ☠️](https://github.com/victorb/ipfsbin) – A Pastebin-like application for sharing code snippets and text documents with others.
+- [IPFS bin :red_circle:](https://github.com/victorb/ipfsbin) – A Pastebin-like application for sharing code snippets and text documents with others.
 
 ## Networking
 
-- [iWant ☠️](https://github.com/nirvik/iWant) – A command-line tool for searching and downloading files within a LAN network without the need for a central server.
+- [iWant :red_circle:](https://github.com/nirvik/iWant) – A command-line tool for searching and downloading files within a LAN network without the need for a central server.
 - [LCVPN](https://github.com/kanocz/lcvpn) – A lightweight decentralized VPN solution written in Golang.
 - [MaidSafe](https://maidsafe.net) – A decentralized internet and application infrastructure that rewards users for their participation in the network.
 - [Meshbird](https://github.com/meshbird/meshbird) – A tool for establishing distributed private networks across geographically spread data centers.
 - [Netsukuku](https://github.com/Netsukuku/netsukuku) – An alternative to the traditional internet, Netsukuku is a mesh network or peer-to-peer system that self-generates and maintains, offering all internet features such as websites, instant messaging, file transfers, DNS, etc. It's built to manage an unlimited number of nodes with minimum CPU and memory resources.
-- [webcat ☠️](https://github.com/mafintosh/webcat) – webcat is a peer-to-peer pipe across the web utilizing WebRTC. It employs Github's private/public key for authentication and a signalhub for discovery. It supports text and file transmission.
+- [webcat :red_circle:](https://github.com/mafintosh/webcat) – webcat is a peer-to-peer pipe across the web utilizing WebRTC. It employs Github's private/public key for authentication and a signalhub for discovery. It supports text and file transmission.
 
 ---
 
 ## Streaming
 
 - [instant.io](https://github.com/webtorrent/instant.io) – A platform that allows streaming file transfers over WebTorrent, bringing torrents to the web.
-- ~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~ – A peer-to-peer audio sharing and streaming application similar to SoundCloud, but decentralized. It's built with SSB + Webtorrent.
+- ~[Ferment :red_circle:](https://github.com/mmckegg/ferment)~ – A peer-to-peer audio sharing and streaming application similar to SoundCloud, but decentralized. It's built with SSB + Webtorrent.
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) – Web-based video streaming platform that uses BitTorrent via WebTorrent and Angular. See a demo at [peertube.cpy.re](https://peertube.cpy.re).
 
 ---
