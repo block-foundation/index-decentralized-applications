@@ -48,7 +48,7 @@ Welcome to our dApps universe!
 - [Friendica](https://github.com/friendica/friendica) – A decentralized communications platform integrating social communication. Connects seamlessly to a federated network of several thousand servers, with over half a million users. Friendica allows you to connect with users on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, irrespective of the hosting location of each user's profile.
 - [Mastodon](https://joinmastodon.org) – Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want – links, pictures, text, video. A platform that is community-owned and ad-free.
 - [Manyverse](https://gitlab.com/staltz/manyverse) – An off-grid social network powered by Scuttlebutt for mobile.
-- [Nostr](https://github.com/nostr-protocol/nostr) - A potentially effective decentralized social network. An uncomplicated, open protocol that fosters a genuinely censorship-resistant and global social network (https://nostr.com/)
+- [Nostr](https://github.com/nostr-protocol/nostr) - A potentially effective decentralized social network. An uncomplicated, open protocol that fosters a genuinely censorship-resistant and global social network (<https://nostr.com/>)
 - [Pleroma](https://pleroma.social) – An open-protocol federated social networking server. Compatible with GNU Social, Mastodon, and numerous other ActivityPub and OStatus implementations.
 - [SocialHome](https://github.com/jaywink/socialhome) – A federated personal profile with social networking capabilities. Users can generate rich content using Markdown or HTML/JS/CSS. All the content can be pinned to the user's profile and will federate to contacts on the federated social web.
 - [Steemit](https://steemit.com/) – A social media platform rooted in blockchain technology, where users can earn rewards.
@@ -75,25 +75,19 @@ Welcome to our dApps universe!
 - [SimpleX chat](https://github.com/simplex-chat/simplex-chat) – A terminal-based chat application with an emphasis on user privacy. It doesn't use any global user identifiers, even random ones, and it supports group chats and file sending. A mobile app is planned.
 - [Tox](https://tox.chat) – Tox is an instant messaging application that operates independently of central servers. It's a distributed, peer-to-peer, and end-to-end encrypted system.
 
-
 ## Blog
 
 - [twtxt](https://github.com/getwtxt/getwtxt) – A decentralized microblogging platform tailored for hackers, twtxt is text-file based. Users can follow and mention each other by referencing the URL of their twtxt.txt file along with a nickname.
-
 
 ### VOIP
 
 - [Element (formerly Riot)](https://element.io) – A collaborative client for the web offering chat, VOIP video, file transfer, and end-to-end crypto functionalities.
 - [Roll-Call](https://rollcall.audio) – Roll-Call offers free and reliable audio calls to everyone through browser peer-to-peer connections.
 
-
 ### Calendar and Events
 
 - [Mobilizon](https://joinmobilizon.org/) – A federated platform for discovering, creating, and managing events.
 - [norcal](https://github.com/substack/norcal) – A peer-to-peer command-line calendar developed in Node.js. It supports syncing, linking, embedding, and offline editing.
-
-
-
 
 ---
 
@@ -106,7 +100,6 @@ Welcome to our dApps universe!
 - [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) – A highly distributed cache platform that operates solely in the browser. It is built upon WebTorrent.
 - [Galacteek](https://gitlab.com/galacteek/galacteek) – A platform for browser and decentralized applications (dapps) for the distributed web.
 
-
 ### Search Engine
 
 - [YaCy](https://yacy.net/) – YaCy is a free search engine based on the principles of peer-to-peer networks. It's a distributed platform.
@@ -115,7 +108,6 @@ Welcome to our dApps universe!
 
 - [Neocities](https://neocities.org) – Provides decentralized websites in the style of Geocities.
 - [ZeroNet](https://zeronet.io/) – ZeroNet offers open, free, and uncensorable websites, employing Bitcoin cryptography and the BitTorrent network. There are no hosting costs, it's always accessible, and censorship is impossible. It includes communities with auditable moderation and mod elections.
-
 
 ### Commerce
 
@@ -161,12 +153,10 @@ Welcome to our dApps universe!
 - [ShareDrop :red_circle:](https://github.com/cowbell/sharedrop) – A replication of the Apple AirDrop service. It enables direct device-to-device file transfers, bypassing the need to upload them to a server.
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) – This is a Graphical User Interface for Syncthing, a program that synchronizes files continuously.
 
-
 ### File Storage
 
 - [ORC :red_circle:](https://orc.network/) – Stands for Onion Routed Cloud, a platform offering decentralized, anonymous file storage. It operates over the Tor network.
 - [Storj](https://storj.io) – A blockchain-based object storage system offering end-to-end encryption. You are the sole entity with access to your data.
-
 
 ### BitTorrent
 
@@ -175,13 +165,13 @@ Welcome to our dApps universe!
 - [TheDistributedBay :red_circle:](https://github.com/TheDistributedBay/TheDistributedBay) – This is a peer-to-peer adaptation of the Open Bay/Pirate Bay. It employs a fully distributed protocol to share entries across multiple nodes, rendering server seizure attempts futile. Each node houses a complete copy and all modifications are disseminated throughout the network.
 - [WebTorrent Desktop](https://webtorrent.io/desktop) – This application is designed for torrent streaming. It establishes connections with both BitTorrent and WebTorrent peers.
 
-
 ## Code
 
 - [IPFS bin :red_circle:](https://github.com/victorb/ipfsbin) – A Pastebin-like application for sharing code snippets and text documents with others.
 
 ## Networking
 
+- [Blockstack](https://blockstack.org) – Blockstack represents a new decentralized internet. It's a platform for application development that includes a built-in decentralized DNS.
 - [iWant :red_circle:](https://github.com/nirvik/iWant) – A command-line tool for searching and downloading files within a LAN network without the need for a central server.
 - [LCVPN](https://github.com/kanocz/lcvpn) – A lightweight decentralized VPN solution written in Golang.
 - [MaidSafe](https://maidsafe.net) – A decentralized internet and application infrastructure that rewards users for their participation in the network.
@@ -202,9 +192,12 @@ Welcome to our dApps universe!
 ## Security
 
 - [Cryptor](https://github.com/cpl/cryptor) – A peer-to-peer overlay network prioritizing your privacy and anonymity. Includes packages and some clients.
+- [Cryptosphere](https://cryptosphere.io) – This is an open-source P2P web application platform for decentralized, privacy-protecting software, which lets users maintain control of their own content.
+- [GNUnet](https://gnunet.org) – GNUnet is a network protocol stack aimed at creating secure, distributed, and privacy-preserving applications. The future of the Internet relies on GNUnet today.
+- [Gun](https://github.com/amark/gun) – Gun is a cybersecurity protocol for synchronizing decentralized graph data. It constitutes an ecosystem of tools that facilitate the creation of community-driven, encrypted applications, similar to an Open Source Firebase or a Decentralized Dropbox.
 - [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) – A multipurpose platform for creating interconnected websites. It features a decentralized identity, communications, and permissions framework built using common web server technology.
 - [Retroshare](https://retroshare.cc) – Retroshare fosters a network of computers by creating encrypted connections among friends. It offers multiple distributed services such as forums, channels, chat, mail, and more.
-- [SecuShare](https://secushare.org) – Primarily a research project, SecuShare is essentially a new internet stack blended with a scalable distributed alternative to cloud technology. Source code can be found at – https://gnunet.org/git/gnunet.git
+- [SecuShare](https://secushare.org) – Primarily a research project, SecuShare is essentially a new internet stack blended with a scalable distributed alternative to cloud technology. Source code can be found at – <https://gnunet.org/git/gnunet.git>
 
 ---
 
