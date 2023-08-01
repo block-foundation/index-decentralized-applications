@@ -44,6 +44,7 @@ Welcome to our dApps universe!
 * [Diaspora](https://github.com/diaspora/diaspora): An open source, distributed social network that respects privacy. The main pod is hosted at [Diasp.eu](https://diasp.eu).
 * [Friendica](https://github.com/friendica/friendica): A decentralized communications platform integrating social communication. Connects seamlessly to a federated network of several thousand servers, with over half a million users. Friendica allows you to connect with users on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, irrespective of the hosting location of each user's profile.
 * [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
+* [Manyverse](https://gitlab.com/staltz/manyverse): An off-grid social network powered by Scuttlebutt for mobile.
 
 ### Chat and Messaging
 
@@ -54,10 +55,12 @@ Welcome to our dApps universe!
 * [Deltachat](https://delta.chat): Deltachat offers a messaging experience similar to Telegram or Whatsapp but without tracking or central control. It utilizes the expansive and diverse e-mail server network to facilitate communication. Chat is possible with anyone if you have their e-mail address, no need for them to install DeltaChat, a standard e-mail account is all you need.
 * [Demonsaw](https://www.demonsaw.com): A secure and anonymous application for sharing information that prioritizes user control of data and simplicity of security.
 * [Fred](https://github.com/hyphanet/fred): A Freenet reference daemon. Also referred to as: freenetproject.org.
+* [Friends ☠️](https://github.com/moose-team/friends): A web-based peer-to-peer chat application. Note that this project is currently in alpha testing phase.
 * [I2P](https://geti2p.net): An anonymous network providing a simple layer that applications can use to send messages to each other securely and anonymously.
 * [ipfs-chat](https://github.com/SomajitDey/ipfs-chat): Secure, terminal-based chatrooms utilizing IPFS that work across LAN and internet (including NAT traversal). Supports private messaging and file/directory sharing.
 * [Jami](https://jami.net/): A free, universal communication platform that respects user's privacy and freedoms. Jami has desktop and mobile apps for text messaging, video and audio calls, file transfer, and video conferencing.
 * [Keet](https://keet.io): A peer-to-peer video and chat platform. It is private, encrypted
+* [Meshenger](https://github.com/meshenger-app/meshenger-android): A Voice/Video Android phone app that operates on local LAN and doesn't require internet access, servers, or accounts.
 * [Orbit](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 
 ### VOIP
@@ -92,6 +95,7 @@ Welcome to our dApps universe!
 ## Database
 
 * [DB3 Network](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+* [LF](https://github.com/zerotier/lf): A fully decentralized and fully replicated key/value store. This means anyone can operate a node without special permissions and each node is equivalent, with each node storing all the data.
 
 ---
 
@@ -106,13 +110,26 @@ Welcome to our dApps universe!
 * [FilePizza ☠️](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 * [Hardbin](https://github.com/jes/hardbin): An encrypted pastebin leveraging IPFS.
 * [IPFS Desktop](https://github.com/ipfs/ipfs-desktop): A native application that enables you to run your own IPFS Node.
+* [ipfs-pinner](https://github.com/wabarc/ipfs-pinner): A toolkit designed to assist in uploading files to IPFS pinning services like Infura, Pinata, NFT.Storage, and Web3.Storage.
+
+
+## Code
+
+* [IPFS bin ☠️](https://github.com/victorb/ipfsbin): A Pastebin-like application for sharing code snippets and text documents with others.
+
+## Networking
+
+* [iWant ☠️](https://github.com/nirvik/iWant): A command-line tool for searching and downloading files within a LAN network without the need for a central server.
+* [LCVPN](https://github.com/kanocz/lcvpn): A lightweight decentralized VPN solution written in Golang.
+* [MaidSafe](https://maidsafe.net): A decentralized internet and application infrastructure that rewards users for their participation in the network.
+* [Meshbird](https://github.com/meshbird/meshbird): A tool for establishing distributed private networks across geographically spread data centers.
 
 ---
 
 ## Streaming
 
 * [instant.io](https://github.com/webtorrent/instant.io): A platform that allows streaming file transfers over WebTorrent, bringing torrents to the web.
-
+* ~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~: A peer-to-peer audio sharing and streaming application similar to SoundCloud, but decentralized. It's built with SSB + Webtorrent.
 
 ---
 
