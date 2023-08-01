@@ -39,6 +39,8 @@ Welcome to our dApps universe!
 * [Cactus Comments](https://cactus.chat/): This is an open web comment system that is federated and built on Matrix.
 * [NNTPChan](https://github.com/majestrate/nntpchan): A decentralized imageboard based on NNTP.
 * [Qaul](https://qaul.net/): A communication app that operates on an internet-independent wireless mesh. It uses interconnected P2P mesh through BLE, WiFi, and Internet-overlay.
+* [Ticktack ☠](https://github.com/ticktackim/ticktack-workplan): This decentralized social platform facilitates knowledge sharing and value exchange, featuring peer-to-peer encrypted messaging. It is developed on the foundation of Secure Scuttlebutt (SSB).
+* [Vdo.Ninja](https://github.com/steveseguin/vdo.ninja): A platform that offers free and privacy-centric Peer-to-Peer technology with ultra-low latency. It requires no downloads, no personal data collection, and no sign-in.
 
 ### Social Networks
 
@@ -72,6 +74,12 @@ Welcome to our dApps universe!
 * [Pollen](https://github.com/maxtheaxe/pollen): A Python-written decentralized messaging service that operates without an internet or mesh connection.
 * [Ricochet](https://ricochet.im/): Ricochet presents a unique take on instant messaging that ensures your privacy by not trusting any third party. It operates over the Tor network.
 * [SimpleX chat](https://github.com/simplex-chat/simplex-chat): A terminal-based chat application with an emphasis on user privacy. It doesn't use any global user identifiers, even random ones, and it supports group chats and file sending. A mobile app is planned.
+* [Tox](https://tox.chat): Tox is an instant messaging application that operates independently of central servers. It's a distributed, peer-to-peer, and end-to-end encrypted system.
+
+
+## Blog
+
+* [twtxt](https://github.com/getwtxt/getwtxt): A decentralized microblogging platform tailored for hackers, twtxt is text-file based. Users can follow and mention each other by referencing the URL of their twtxt.txt file along with a nickname.
 
 
 ### VOIP
@@ -85,6 +93,9 @@ Welcome to our dApps universe!
 * [Mobilizon](https://joinmobilizon.org/): A federated platform for discovering, creating, and managing events.
 * [norcal](https://github.com/substack/norcal): A peer-to-peer command-line calendar developed in Node.js. It supports syncing, linking, embedding, and offline editing.
 
+
+
+
 ---
 
 ## Internet Applications
@@ -97,9 +108,14 @@ Welcome to our dApps universe!
 * [Galacteek](https://gitlab.com/galacteek/galacteek): A platform for browser and decentralized applications (dapps) for the distributed web.
 
 
+### Search Engine
+
+* [YaCy](https://yacy.net/): YaCy is a free search engine based on the principles of peer-to-peer networks. It's a distributed platform.
+
 ### Websites
 
 * [Neocities](https://neocities.org): Provides decentralized websites in the style of Geocities.
+* [ZeroNet](https://zeronet.io/): ZeroNet offers open, free, and uncensorable websites, employing Bitcoin cryptography and the BitTorrent network. There are no hosting costs, it's always accessible, and censorship is impossible. It includes communities with auditable moderation and mod elections.
 
 
 ### Commerce
@@ -157,6 +173,8 @@ Welcome to our dApps universe!
 
 * [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 * [nuTorrent ☠️](https://github.com/LeeChSien/nuTorrent): A pure Javascript BitTorrent client, built using Electron and React.
+* [TheDistributedBay ☠️](https://github.com/TheDistributedBay/TheDistributedBay): This is a peer-to-peer adaptation of the Open Bay/Pirate Bay. It employs a fully distributed protocol to share entries across multiple nodes, rendering server seizure attempts futile. Each node houses a complete copy and all modifications are disseminated throughout the network.
+* [WebTorrent Desktop](https://webtorrent.io/desktop): This application is designed for torrent streaming. It establishes connections with both BitTorrent and WebTorrent peers.
 
 
 ## Code
@@ -170,6 +188,7 @@ Welcome to our dApps universe!
 * [MaidSafe](https://maidsafe.net): A decentralized internet and application infrastructure that rewards users for their participation in the network.
 * [Meshbird](https://github.com/meshbird/meshbird): A tool for establishing distributed private networks across geographically spread data centers.
 * [Netsukuku](https://github.com/Netsukuku/netsukuku): An alternative to the traditional internet, Netsukuku is a mesh network or peer-to-peer system that self-generates and maintains, offering all internet features such as websites, instant messaging, file transfers, DNS, etc. It's built to manage an unlimited number of nodes with minimum CPU and memory resources.
+* [webcat ☠️](https://github.com/mafintosh/webcat): webcat is a peer-to-peer pipe across the web utilizing WebRTC. It employs Github's private/public key for authentication and a signalhub for discovery. It supports text and file transmission.
 
 ---
 
