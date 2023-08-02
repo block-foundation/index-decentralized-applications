@@ -26,8 +26,6 @@ Whether you're a developer, a real estate professional, a blockchain enthusiast,
 
 Feel free to contribute, raise issues, or suggest improvements. Let's build the future of real estate, architecture, and urban planning together, one decentralized application at a time.
 
-Welcome to our dApps universe!
-
 ---
 
 ## Communications
@@ -56,7 +54,7 @@ Welcome to our dApps universe!
 ### Chat and Messaging
 
 - [Berty](https://github.com/berty/berty) – This is a secure peer-to-peer messaging application that works both with and without internet access, cellular data, or trust in the network.
-- [Bitmessage](https://bitmessage.org) – P2P communications protocol used to send encrypted messages to another person or to many subscribers.
+- [Bitmessage](https://bitmessage.org) – P2P communications protocol used to send encrypted messages to another person or to many subscribers. Provides a platform for anonymous and encrypted message broadcasting.
 - [Cabal](https://github.com/cabal-club/cabal-desktop) – Cabal is a peer-to-peer community chat platform designed to function offline first.
 - [Databag](https://github.com/balzack/databag) – A self-hosted, lightweight federated messenger for the decentralized web. Features include a lightweight interface, public-private key-based identity, and end-to-end encryption.
 - [Deltachat](https://delta.chat) – Deltachat offers a messaging experience similar to Telegram or Whatsapp but without tracking or central control. It utilizes the expansive and diverse e-mail server network to facilitate communication. Chat is possible with anyone if you have their e-mail address, no need for them to install DeltaChat, a standard e-mail account is all you need.
@@ -73,10 +71,11 @@ Welcome to our dApps universe!
 - [Pollen](https://github.com/maxtheaxe/pollen) – A Python-written decentralized messaging service that operates without an internet or mesh connection.
 - [Ricochet](https://ricochet.im/) – Ricochet presents a unique take on instant messaging that ensures your privacy by not trusting any third party. It operates over the Tor network.
 - [SimpleX chat](https://github.com/simplex-chat/simplex-chat) – A terminal-based chat application with an emphasis on user privacy. It doesn't use any global user identifiers, even random ones, and it supports group chats and file sending. A mobile app is planned.
-- [Tox](https://tox.chat) – Tox is an instant messaging application that operates independently of central servers. It's a distributed, peer-to-peer, and end-to-end encrypted system.
+- [Tox](https://tox.chat) – Provides a platform for instant messaging and video calls that operates independently of central servers. It's a distributed, peer-to-peer, and end-to-end encrypted system.
 
 ## Blog
 
+- [Twister](http://twister.net.co/) - A microblogging application similar to Twitter.
 - [twtxt](https://github.com/getwtxt/getwtxt) – A decentralized microblogging platform tailored for hackers, twtxt is text-file based. Users can follow and mention each other by referencing the URL of their twtxt.txt file along with a nickname.
 
 ### VOIP
@@ -124,6 +123,18 @@ Welcome to our dApps universe!
 ### DNS
 
 - [Handshake](https://handshake.org) – A decentralized, permissionless naming protocol that aligns with DNS, with every peer validating and managing the root zone. Its aim is to create an alternative to existing Certificate Authorities.
+- [okTurtles](https://okturtles.com) – okTurtles provides DNSChain for secure blockchain access and BlockchainID for decentralized web login.
+
+### Security
+
+- [Cryptor](https://github.com/cpl/cryptor) – A peer-to-peer overlay network prioritizing your privacy and anonymity. Includes packages and some clients.
+- [Cryptosphere](https://cryptosphere.io) – This is an open-source P2P web application platform for decentralized, privacy-protecting software, which lets users maintain control of their own content.
+- [GNUnet](https://gnunet.org) – GNUnet is a network protocol stack aimed at creating secure, distributed, and privacy-preserving applications. The future of the Internet relies on GNUnet today.
+- [Gun](https://github.com/amark/gun) – Gun is a cybersecurity protocol for synchronizing decentralized graph data. It constitutes an ecosystem of tools that facilitate the creation of community-driven, encrypted applications, similar to an Open Source Firebase or a Decentralized Dropbox.
+- [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) – A multipurpose platform for creating interconnected websites. It features a decentralized identity, communications, and permissions framework built using common web server technology.
+- [Identifi](https://github.com/identifi/identifi) - Acts as a distributed identity and reputation storage system.
+- [Retroshare](https://retroshare.cc) – Retroshare fosters a network of computers by creating encrypted connections among friends. It offers multiple distributed services such as forums, channels, chat, mail, and more.
+- [SecuShare](https://secushare.org) – Primarily a research project, SecuShare is essentially a new internet stack blended with a scalable distributed alternative to cloud technology. Source code can be found at – <https://gnunet.org/git/gnunet.git>
 
 ---
 
@@ -141,6 +152,7 @@ Welcome to our dApps universe!
 - [Airshare](https://github.com/KuroLabs/Airshare) – A command-line interface tool and module for transferring data between two machines on a local network. It operates peer-to-peer using Multicast-DNS and can function completely offline.
 - [croc](https://github.com/schollz/croc) – A utility that allows the easy and secure transfer of files and folders between computers from the command line.
 - [Dat Desktop](https://github.com/datproject/dat-desktop) – This decentralized tool allows for the distribution of small and large data.
+- [DataToken](https://github.com/ownership-labs/DataToken) – DataToken is a decentralized access control system designed for off-chain data sharing and monetization. Its goal is to increase the transparency of data flows, returning data ownership to its rightful owners while preserving data's computability.
 - [FileLove](https://github.com/midzer/filelove) – Minimal p2p file transfer right in the browser, using WebTorrent.
 - [FilePizza :red_circle:](https://github.com/kern/filepizza) – Free peer-to-peer file transfers in your browser.
 - [Hardbin](https://github.com/jes/hardbin) – An encrypted pastebin leveraging IPFS.
@@ -151,6 +163,7 @@ Welcome to our dApps universe!
 - [Peertransfer :red_circle:](https://github.com/pguth/peertransfer) – A web-based platform allowing peer-to-peer file transfers with end-to-end encryption.
 - [reep.io :red_circle:](https://reep.io) – This platform enables file transfers directly to another browser. Your peer can download the file directly from you.
 - [ShareDrop :red_circle:](https://github.com/cowbell/sharedrop) – A replication of the Apple AirDrop service. It enables direct device-to-device file transfers, bypassing the need to upload them to a server.
+- [Solid](https://solidproject.org) – Founded by Sir Tim Berners-Lee, the creator of the World Wide Web, Solid is a specification that allows people to securely store their data in decentralized data repositories known as Pods. Think of Pods as secure personal servers for your data. You can find developer resources at [Developer Resources](https://solidproject.org/developers), and a list of some Solid applications at [Solid Applications](https://solidproject.org/apps).
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) – This is a Graphical User Interface for Syncthing, a program that synchronizes files continuously.
 
 ### File Storage
@@ -186,18 +199,8 @@ Welcome to our dApps universe!
 - [instant.io](https://github.com/webtorrent/instant.io) – A platform that allows streaming file transfers over WebTorrent, bringing torrents to the web.
 - [Ferment :red_circle:](https://github.com/mmckegg/ferment)~ – A peer-to-peer audio sharing and streaming application similar to SoundCloud, but decentralized. It's built with SSB + Webtorrent.
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) – Web-based video streaming platform that uses BitTorrent via WebTorrent and Angular. See a demo at [peertube.cpy.re](https://peertube.cpy.re).
+- [Streamium](https://streamium.io/) - A service for streaming video broadcasts that are paid for using Bitcoin.
 
----
-
-## Security
-
-- [Cryptor](https://github.com/cpl/cryptor) – A peer-to-peer overlay network prioritizing your privacy and anonymity. Includes packages and some clients.
-- [Cryptosphere](https://cryptosphere.io) – This is an open-source P2P web application platform for decentralized, privacy-protecting software, which lets users maintain control of their own content.
-- [GNUnet](https://gnunet.org) – GNUnet is a network protocol stack aimed at creating secure, distributed, and privacy-preserving applications. The future of the Internet relies on GNUnet today.
-- [Gun](https://github.com/amark/gun) – Gun is a cybersecurity protocol for synchronizing decentralized graph data. It constitutes an ecosystem of tools that facilitate the creation of community-driven, encrypted applications, similar to an Open Source Firebase or a Decentralized Dropbox.
-- [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) – A multipurpose platform for creating interconnected websites. It features a decentralized identity, communications, and permissions framework built using common web server technology.
-- [Retroshare](https://retroshare.cc) – Retroshare fosters a network of computers by creating encrypted connections among friends. It offers multiple distributed services such as forums, channels, chat, mail, and more.
-- [SecuShare](https://secushare.org) – Primarily a research project, SecuShare is essentially a new internet stack blended with a scalable distributed alternative to cloud technology. Source code can be found at – <https://gnunet.org/git/gnunet.git>
 
 ---
 
@@ -205,6 +208,10 @@ Welcome to our dApps universe!
 
 - [Hyperpad](https://github.com/hackergrrl/hyperpad) – A peer-to-peer collaborative text editor.
 - [Philes](https://github.com/chrismatthieu/philes) – A straightforward decentralized notepad app powered by IPFS.
+
+## Development
+
+- [ArcBlock](https://arcblock.io/) – A decentralized development platform, ArcBlock simplifies the process of creating DApps, DLT, and Blockchains.
 
 ## Legal Information
 
